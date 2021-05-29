@@ -1,0 +1,41 @@
+PHLoger
+Started
+----------
+Alpha ABS build
+1128
+----------
+Help and support
+https://discord.gg/8EE6PMv
+----------
+Patreon page
+https://www.patreon.com/KageDesu
+----------
+SyntaxError
+SyntaxError: Unexpected token <
+    at Game_Interpreter.command355 (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:10500:10)
+    at Game_Interpreter.executeCommand (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8930:34)
+    at Game_Interpreter.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8838:19)
+    at Game_AIBot.Game_Event.updateParallel (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8748:27)
+    at Game_AIBot.Game_Event.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8740:10)
+    at Game_AIBot.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:8992:33)
+    at chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:6066:15
+    at Array.forEach (<anonymous>)
+    at Game_Map.updateEvents (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:6065:19)
+    at Game_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:6025:10)
+----------
+ERROR!
+Using AlphaABS [Build: 1128 ; on MV  1.6.1]
+----------
+ERROR!
+SyntaxError: Unexpected token <
+    at Game_Interpreter.command355 (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:10500:10)
+    at Game_Interpreter.executeCommand (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8930:34)
+    at Game_Interpreter.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8838:19)
+    at Game_AIBot.Game_Event.updateParallel (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8748:27)
+    at Game_AIBot.Game_Event.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:8740:10)
+    at Game_AIBot.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/plugins/Alpha_ABS_1128_public.js:8992:33)
+    at chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:6066:15
+    at Array.forEach (<anonymous>)
+    at Game_Map.updateEvents (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:6065:19)
+    at Game_Map.update (chrome-extension://odlameecjipmbmbejkplpemijjgpljce/js/rpg_objects.js:6025:10)
+----------
