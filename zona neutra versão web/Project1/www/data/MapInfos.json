@@ -1,0 +1,20 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Quarto","order":1,"parentId":0,"scrollX":1005.3333333333334,"scrollY":443.55555555555554},
+{"id":2,"expanded":true,"name":"Cena final dialogo","order":12,"parentId":0,"scrollX":1012.4444444444445,"scrollY":427.55555555555554},
+{"id":3,"expanded":false,"name":"Exército","order":2,"parentId":0,"scrollX":1012.4444444444445,"scrollY":427.55555555555554},
+{"id":4,"expanded":true,"name":"Zona neutra cidade","order":3,"parentId":0,"scrollX":1005.3333333333334,"scrollY":420.44444444444446},
+{"id":5,"expanded":true,"name":"Cidade pos conversa","order":5,"parentId":8,"scrollX":1005.3333333333334,"scrollY":420.44444444444446},
+{"id":6,"expanded":true,"name":"Floresta","order":9,"parentId":0,"scrollX":1012.4444444444445,"scrollY":427.55555555555554},
+{"id":7,"expanded":true,"name":"Floresta","order":10,"parentId":6,"scrollX":1012.4444444444445,"scrollY":427.55555555555554},
+{"id":8,"expanded":true,"name":"Fronteira zona neutra","order":4,"parentId":4,"scrollX":1012.4444444444445,"scrollY":427.55555555555554},
+{"id":9,"expanded":true,"name":"Quarto fronteira","order":6,"parentId":5,"scrollX":1005.3333333333334,"scrollY":1012.4444444444445},
+{"id":10,"expanded":true,"name":"Cidade a noite fuga fronteira","order":7,"parentId":9,"scrollX":1394.6666666666667,"scrollY":420.44444444444446},
+{"id":11,"expanded":false,"name":"fronteira noite fuga","order":8,"parentId":10,"scrollX":1012.4444444444445,"scrollY":427.55555555555554},
+{"id":12,"expanded":false,"name":"Hospital","order":11,"parentId":0,"scrollX":1012.4444444444445,"scrollY":427.55555555555554},
+{"id":13,"expanded":true,"name":"Flashback irmao morrendo","order":16,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":14,"expanded":true,"name":"Luta final","order":14,"parentId":15,"scrollX":832,"scrollY":640},
+{"id":15,"expanded":true,"name":"observações","order":13,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":16,"expanded":true,"name":"computador","order":15,"parentId":14,"scrollX":1012.4444444444445,"scrollY":427.55555555555554},
+{"id":17,"expanded":true,"name":"base","order":17,"parentId":0,"scrollX":1012.4444444444445,"scrollY":427.55555555555554}
+]
